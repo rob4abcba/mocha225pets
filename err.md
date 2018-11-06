@@ -498,10 +498,6 @@ max
 add a comment
 
 
-up vote
-1
-down vote
-
 Deleting the "scripts" folder and rebuilding the project will solve this problem.
 
 shareimprove this answer
@@ -530,12 +526,7 @@ Kaisar Hossain
 
 @Kaisar Hossein - I hope I've understood what you wanted to say. Please note that the Community prefers posts without expressions like "thanks", "hope this helps" etc. If I misunderstood you can always edit your own posts as often as you like :) – 0X0nosugar Apr 27 '16 at 8:35
 
-add a comment
 
-
-up vote
-1
-down vote
 
 I don't know why a great developer as Google can't manage this issue by them selves it is very easy to delete the cached folder and regenerate it programmatically. ** RL: DO THIS ** Any way just navigate to C:\Users\user.gradle\caches\ and open the latest version folder, then delete the scripts folder. Go to android studio and sync project. (RL: File > Sync Project with Gradle Files)
 
@@ -572,9 +563,6 @@ asked Nov 12 '13 at 15:11
 
 
 
-
-
-
 ojonugwa ochalifu
 
 14.8k2177103
@@ -582,10 +570,8 @@ ojonugwa ochalifu
 add a comment
 
 
-
 5 Answers
 activeoldestvotes
-
 
 
 up vote
@@ -613,16 +599,11 @@ edited Apr 20 at 13:44
 
 
 
-
-
-
 Mateus Gondim
 
 2,35931942
 
 answered Nov 12 '13 at 15:16
-
-
 
 
 
@@ -646,8 +627,6 @@ awesome answer... – Sudipta Som Apr 26 '16 at 11:07
 Unfortunately this option does not exist in Android Studio 2.2. – Igor Ganapolsky Jun 14 '16 at 21:08
 
 show 6 more comments
-
-
 
 
 
@@ -887,9 +866,7 @@ Here 4.4 is shaded:
 
 
 
-
 Here 4.6 is shaded
-
 
 
 
